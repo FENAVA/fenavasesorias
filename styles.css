@@ -12,3 +12,35 @@ html, body {
 /* Enlaces legibles en fondo claro */
 a { color: #0069d9; }
 a:hover { color: #004a9f; }
+/* === Forzar tema claro y contraste legible === */
+html, body {
+  background: #ffffff !important;
+  color: #111 !important;
+}
+
+/* Secciones comunes */
+.section, .hero, .content, .container, .card {
+  background: #ffffff !important;
+  color: #111 !important;
+  border-color: #e5e7eb !important;
+}
+
+/* Enlaces en tema claro */
+a { color: #0b67ff; }
+a:hover { color: #084ec2; }
+
+/* Barra de navegación clara */
+.nav, header.nav, .navbar {
+  background: #ffffff !important;
+  color: #111 !important;
+  border-bottom: 1px solid #e5e7eb !important;
+}
+
+/* Botones/links del menú */
+.nav .btn, .navbar a {
+  color: #334155 !important;
+}
+.nav .btn:hover, .navbar a:hover {
+  background: #f1f5f9 !important;
+  color: #0b67ff !important;
+}
