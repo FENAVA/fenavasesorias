@@ -1,62 +1,43 @@
 {
-    "grandes": [
-        {
-            "name": "CCU - Planta Porvenir (Casablanca)"
-        },
-        {
-            "name": "Grupo Maker - Proyectos varios (Las Condes)"
-        },
-        {
-            "name": "CURIFOR S.A - Sistemas CCTV (Las Condes)"
-        },
-        {
-            "name": "ItalMarket - Mantención e instalación de cámaras (Valparaíso)"
-        }
-    ],
-    "nuevos": [
-        {
-            "name": "Albergue Fundación Golden - Santiago Concha"
-        },
-        {
-            "name": "Local Shawarma - San Diego 118 (Santiago)"
-        },
-        {
-            "name": "Minimarket y Botillería Sra. Ruth - San Gregorio"
-        },
-        {
-            "name": "Cliente particular - San Bernardo"
-        },
-        {
-            "name": "Cliente particular - Lo Barnechea"
-        },
-        {
-            "name": "Cliente particular - Playa Quilimarí"
-        }
-    ],
-    "antiguos": [
-        {
-            "name": "Fashion Company S.A – Asesorías TI"
-        },
-        {
-            "name": "JeansBlue Spa – Sistemas de CCTV"
-        },
-        {
-            "name": "Hotel Plaza - Santiago Centro"
-        },
-        {
-            "name": "Distribuidora de Abarrotes Don Pedro"
-        },
-        {
-            "name": "Ferretería El Martillo"
-        },
-        {
-            "name": "Restaurante La Buena Mesa"
-        },
-        {
-            "name": "Colegio San Francisco de Asís"
-        },
-        {
-            "name": "Panadería El Trigal"
-        }
-    ]
+  "grandes": [
+    { "name": "CCU · Planta Porvenir (Casablanca)" },
+    { "name": "INGENIERÍA Y GESTIÓN DE PROCESOS MAKERSOLUTIONS SPA · Proyectos varios (Las Condes)" },
+    { "name": "CURIFOR S A · Instalación y mantención de sistemas CCTV (Las Condes)" }
+  ],
+  "nuevos": [
+    { "name": "Cliente Nuevo Case Spa" },
+    { "name": "Cliente Nuevo Siku Internacional Ltda" },
+    { "name": "Cliente Nuevo Local Shawarma" },
+    { "name": "Cliente Nuevo Fundación Golden" },
+    { "name": "Cliente Nuevo COMERCIALIZADORA JORGE ROBERTO MARTÍNEZ VERGARA E.I.R.L." }
+  ],
+  "antiguos": [
+    { "name": "Condominio Jardines de Vital Apoquindo – Infraestructura de CCTV perimetral" },
+    { "name": "Casa particular – Lo Barnechea – Revisión de cobertura y reemplazo de cámaras" },
+    { "name": "Playa Quilimarí – Monitoreo exterior con visión nocturna" },
+    { "name": "ELEVACIONES DE CARGA CHILE SPA – Mantención CCTV" },
+    { "name": "COMUNIDAD CONDOMINIO PARQUE COLONIAL DE TARAPACÁ – Mantención CCTV" },
+    { "name": "PROFESIONALES ASOCIADOS LIMITADA – Soporte TI" },
+    { "name": "CORPORACIÓN EDUCACIONAL LONDON COLLEGE – Mantención CCTV" },
+    { "name": "GLOBAL MAKERS SPA – Instalación Sistema CCTV" },
+    { "name": "INVERSIONES SOLANAS LIMITADA – Mantención CCTV" },
+    { "name": "CONDOMINIO LOS PORTONES IV HACIENDA EL PEÑÓN – Mantención CCTV" },
+    { "name": "CHAMPS SPA – Instalación Sistema CCTV" },
+    { "name": "SOFTNET SPA – Mantención CCTV" },
+    { "name": "POLANCORP SOLUTIONS LIMITADA – Mantención CCTV" },
+    { "name": "SUD PRODUCCIONES SPA – Instalación CCTV" },
+    { "name": "ECOITALIA SPA – Asesorías TI" },
+    { "name": "CHERIT CONSULTORES LIMITADA – Asesorías TI" },
+    { "name": "SEGUNDA ETAPA LOTEO BALNEARIO LAS VIZCACHAS – Mantención CCTV" },
+    { "name": "CONJUNTO JARDINES DE VIZCACHAS CONDOMINIO CUATRO – Mantención CCTV" },
+    { "name": "CONSTRUCCIONES JJAS SPA – Asesorías TI" },
+    { "name": "SERVICIOS LOGÍSTICOS NORTE GRANDE SPA – Asesorías TI" },
+    { "name": "SUE SPA – Asesorías TI" },
+    { "name": "AGRICOLA MONTE OLIVO S.A. – Asesorías TI" },
+    { "name": "PATAGONIA FOOD S.A. – Asesorías TI" },
+    { "name": "FASHION COMPANY S.A. – Asesorías TI" },
+    { "name": "SOCIEDAD AGRÍCOLA LA CASCADA LIMITADA – Asesorías TI" },
+    { "name": "INVERSIONES ANDES SPA – Asesorías TI" },
+    { "name": "T J C CHILE S A – Asesorías TI" }
+  ]
 }
