@@ -1,0 +1,122 @@
+{
+  "grandes": [
+    {
+      "name": "CCU · Planta Porvenir (Casablanca)",
+      "logo": "assets/clients/grandes/ccu.png",
+      "url": ""
+      "name": "INGENIERIA Y GESTION DE PROCESOS MAKERSOLUTIONS SPA· Proyectos varios (Las Condes)",
+      "logo": "assets/clients/grandes/Grupo Maker.png",
+      "url": "" 
+      "name": "CURIFOR S A · Instalacion Y mantencion de sistemas CCTV (Las Condes)",
+      "logo": "assets/clients/grandes/Automotora Curifor.png",
+      "url": ""
+    }
+  ],
+  "nuevos": [
+    {
+      "name": "Cliente Nuevo Case Spa",
+      "logo": "assets/clients/nuevos/Case Spa.png",
+      "url": ""
+      "name": "Cliente Nuevo Siku Internacional Ltda",
+      "logo": "assets/clients/nuevos/Siku Internacional Ltda.png",
+      "url": ""
+      "name": "Cliente Nuevo Local Shawarma",
+      "logo": "assets/clients/nuevos/Local Shawarma.png",
+      "url": ""
+      "name": "Cliente Nuevo Fundación Golden",
+      "logo": "assets/clients/nuevos/Fundación Golden.png",
+      "url": ""
+      "name": "Cliente Nuevo COMERCIALIZADORA JORGE ROBERTO MARTINEZ VERGARA E.I.R.L.",
+      "logo": "assets/clients/nuevos/COMERCIALIZADORA JORGE ROBERTO MARTINEZ VERGARA E.I.R.L.png",
+      "url": ""
+    }
+  ],
+  "antiguos": [
+    {
+      "name": "Cliente Antiguo Condominio Jardines de Vital Apoquindo – Infraestructura de CCTV perimetral",
+      "logo": "assets/clients/antiguos/Condominio Jardines de Vital Apoquindo.png",
+      "url": ""
+      "name": "Cliente Antiguo Casa particular – Lo Barnechea – Revisión de cobertura y reemplazo de cámaras",
+      "logo": "assets/clients/antiguos/Casa particular – Lo Barnechea.png",
+      "url": ""
+      "name": "Cliente Antiguo Playa Quilimarí – Monitoreo exterior con visión nocturna",
+      "logo": "assets/clients/antiguos/Playa Quilimarí.png",
+      "url": ""
+      "name": "Cliente Antiguo ELEVACIONES DE CARGA CHILE SPA – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/ELEVACIONES DE CARGA CHILE SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo COMUNIDAD CONDOMINIO PARQUE COLONIAL DE TARAPACA – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/COMUNIDAD CONDOMINIO PARQUE COLONIAL DE TARAPACA.png",
+      "url": ""
+      "name": "Cliente Antiguo PROFESIONALES ASOCIADOS LIMITADA – Soporte TI",
+      "logo": "assets/clients/antiguos/PROFESIONALES ASOCIADOS LIMITADA.png",
+      "url": ""
+       "name": "Cliente Antiguo CORPORACION EDUCACIONAL LONDON COLLEGE – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/CORPORACION EDUCACIONAL LONDON COLLEGE.png",
+      "url": ""
+      "name": "Cliente Antiguo GLOBAL MAKERS SPA – Instalación Sistema CCTV",
+      "logo": "assets/clients/antiguos/GLOBAL MAKERS SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo INVERSIONES SOLANAS LIMITADA – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/INVERSIONES SOLANAS LIMITADA.png",
+      "url": ""
+      "name": "Cliente Antiguo CONDOMINIO LOS PORTONES IV HACIENDA EL PENON – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/CONDOMINIO LOS PORTONES IV HACIENDA EL PENON.png",
+      "url": ""
+      "name": "Cliente Antiguo CHAMPS SPA – Instalación Sistema CCTV",
+      "logo": "assets/clients/antiguos/CHAMPS SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo SOFTNET SPA – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/SOFTNET SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo POLANCORP SOLUTIONS LIMITADA – Mantencion CCTV",
+      "logo": "assets/clients/antiguos/POLANCORP SOLUTIONS LIMITADA.png",
+      "url": ""
+      "name": "Cliente Antiguo SUD PRODUCCIONES SPA– instalacion CCTV",
+      "logo": "assets/clients/antiguos/SUD PRODUCCIONES SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo ECOITALIA SPA– Asesorias TI",
+      "logo": "assets/clients/antiguos/SUD PRODUCCIONES SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo CHERIT CONSULTORES LIMITADA– Asesorias TI",
+      "logo": "assets/clients/antiguos/CHERIT CONSULTORES LIMITADA.png",
+      "url": ""
+      "name": "Cliente Antiguo SEGUNDA ETAPA LOTEO BALNEARIO LAS VIZCACHAS– Mantencion CCTV",
+      "logo": "assets/clients/antiguos/SEGUNDA ETAPA LOTEO BALNEARIO LAS VIZCACHAS.png",
+      "url": ""
+      "name": "Cliente Antiguo CONJUNTO JARDINES DE VIZCACHAS CONDOMINIO CUATRO– Mantencion CCTV",
+      "logo": "assets/clients/antiguos/CONJUNTO JARDINES DE VIZCACHAS CONDOMINIO CUATRO.png",
+      "url": ""
+      "name": "Cliente Antiguo CONSTRUCCIONES JJAS SPA– Asesorias TI",
+      "logo": "assets/clients/antiguos/CONSTRUCCIONES JJAS SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo SERVICIOS LOGISTICOS NORTE GRANDE SPA– Asesorias TI",
+      "logo": "assets/clients/antiguos/SERVICIOS LOGISTICOS NORTE GRANDE SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo SUE SPA– Asesorias TI",
+      "logo": "assets/clients/antiguos/SUE SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo AGRICOLA MONTE OLIVO S.A.– Asesorias TI",
+      "logo": "assets/clients/antiguos/AGRICOLA MONTE OLIVO S.A.png",
+      "url": ""
+      "name": "Cliente Antiguo PATAGONIA FOOD S.A.– Asesorias TI",
+      "logo": "assets/clients/antiguos/PATAGONIA FOOD S.A.png",
+      "url": ""
+      "name": "Cliente Antiguo FASHION COMPANY S.A.– Asesorias TI",
+      "logo": "assets/clients/antiguos/FASHION COMPANY S.A.png",
+      "url": ""
+      "name": "Cliente Antiguo SOCIEDAD AGRICOLA LA CASCADA LIMITADA– Asesorias TI",
+      "logo": "assets/clients/antiguos/SOCIEDAD AGRICOLA LA CASCADA LIMITADA.png",
+      "url": ""
+      "name": "Cliente Antiguo INVERSIONES ANDES SPA.– Asesorias TI",
+      "logo": "assets/clients/antiguos/INVERSIONES ANDES SPA.png",
+      "url": ""
+      "name": "Cliente Antiguo T J C CHILE S A.– Asesorias TI",
+      "logo": "assets/clients/antiguos/T J C CHILE S A.png",
+      "url": ""
+      "name": "Cliente Antiguo JEANSBLUE SPA.– Asesorias TI",
+      "logo": "assets/clients/antiguos/JEANSBLUE SPA.png",
+      "url": ""
+    }
+  ]
+}
