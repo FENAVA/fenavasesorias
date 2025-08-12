@@ -1,1 +1,45 @@
-<!doctype html><html lang='es'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>FENAVA · Clientes y Portafolio</title><link rel='icon' href='assets/favicon.svg'><link rel='stylesheet' href='styles.css'></head><body><header><div class='container nav'><div class='brand'><img src='assets/logo-fenava.svg' alt='FENAVA' style='height:44px'></div><div><a class='btn' href='#clientes'>Clientes</a> <a class='btn' href='#portafolio'>Portafolio</a> <a class='btn primary' href='#contacto'>Contacto</a></div></div></header><main><section class='hero'><div class='container'><h1>FENAVA — Seguridad Electrónica & TI</h1><p></p></div></section><section id='clientes' class='container clients'><h2>Clientes</h2><div class='tabs'><div class='tab active' data-group='grandes'>Grandes</div><div class='tab' data-group='nuevos'>Nuevos</div><div class='tab' data-group='antiguos'>Antiguos</div></div><div id='clientesGrid' class='grid cols-4'></div></section><section id='portafolio' class='container'><h2>Portafolio</h2><div id='portfolioGrid' class='grid cols-3'></div></section><section id='contacto' class='container'><h2>Contacto</h2><div class='grid cols-3'><div class='card'><p>WhatsApp: <a href='https://wa.me/56981530219' target='_blank'>+56 9 8153 0219</a></p><p>Email: <a href='mailto:Fenavasesorias@outlook.com'>Fenavasesorias@outlook.com</a></p></div><div class='card'><p>Santiago · RM ·</p></div><div class='card'><p>Emergencias 24/7</p></div></div></section></main><footer class='footer'><div class='container'>© <span id='y'></span> FENAVA · Todos los derechos reservados.</div></footer><script>document.getElementById('y').textContent=new Date().getFullYear();let clientsData={};let group='grandes';const grid=document.getElementById('clientesGrid');function render(g){grid.innerHTML='';(clientsData[g]||[]).forEach(c=>{const a=document.createElement('a');a.className='card';a.href=c.url||'#';a.target=c.url?'_blank':'_self';a.title=c.name;const img=document.createElement('img');img.src=c.logo;img.alt=c.name;a.appendChild(img);grid.appendChild(a);});}fetch('clients.json').then(r=>r.json()).then(d=>{clientsData=d;render(group);});document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));t.classList.add('active');group=t.dataset.group;render(group);});const pgrid=document.getElementById('portfolioGrid');fetch('portfolio.json').then(r=>r.json()).then(items=>{items.forEach(i=>{const div=document.createElement('div');div.className='card';div.innerHTML=`<img src='${i.image}' alt='${i.title}'><h3>${i.title}</h3><p>${i.desc}</p>`;pgrid.appendChild(div);});});</script></body></html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FENAV Asesorías Informáticas</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border-bottom: 2px solid #ccc;
+        }
+        header img {
+            height: 80px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        header p {
+            margin: 0;
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="assets/logo_fenav.png" alt="Logo FENAV Asesorías">
+        <div>
+            <h1>FENAV Asesorías Informáticas</h1>
+            <p>Cobertura desde Arica a Magallanes</p>
+        </div>
+    </header>
+
+    <main>
+        <h2>Bienvenido a FENAV Asesorías</h2>
+        <p>Ofrecemos soluciones informáticas y seguridad electrónica a lo largo de todo Chile.</p>
+    </main>
+</body>
+</html>
